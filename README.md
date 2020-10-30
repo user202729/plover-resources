@@ -62,6 +62,12 @@ Looking at the dictionaries is an option.
 
 Online resources:
 
+* [Philadelphia Clinic book](https://groups.google.com/forum/#!searchin/ploversteno/PDF%7Csort:date/ploversteno/DQIIK89eO-4/52u9WUf3AQAJ)
+(also available as `Philadelphia Clinic.pdf` in this repository)
+
+    According to the same Google Group thread, the dictionary is available on the Stenovations site,
+    but mislabeled as "Pennsylvania Clinic" (which is also available in this repository)
+
 * [startran-theory-compare-chart.jpg](https://startran.com/wp-content/uploads/2018/09/startran-theory-compare-chart.jpg) --
 Compares StarTran, Phoenix, StenEd and StenoMaster (Magnum) theory on some random words.
 * [Summary of the Various Theories](https://kensoffice.blogspot.com/p/stenograph-theories.html)
