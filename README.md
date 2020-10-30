@@ -68,6 +68,11 @@ Online resources:
     According to the same Google Group thread, the dictionary is available on the Stenovations site,
     but mislabeled as "Pennsylvania Clinic" (which is also available in this repository)
 
+* A file that compares several theories (Phoenix, StenEd, CCST, RWG, RW) (and also list some Phoenix/RealWrite theories)
+was originally available [here](https://www.ncra.org/files/MCMS/5E781983-A6C9-4EA3-BCDD-B33ED6998381.pdf)
+([Google Group post](https://groups.google.com/d/msg/ploversteno/9bMkXbUNkww/f-0U_OO7whQJ))
+and is available as `5e781983-a6c9-4ea3-bcdd-b33ed6998381.pdf` in this repository.
+
 * [startran-theory-compare-chart.jpg](https://startran.com/wp-content/uploads/2018/09/startran-theory-compare-chart.jpg) --
 Compares StarTran, Phoenix, StenEd and StenoMaster (Magnum) theory on some random words.
 * [Summary of the Various Theories](https://kensoffice.blogspot.com/p/stenograph-theories.html)
