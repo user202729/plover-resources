@@ -11,6 +11,10 @@ The `.dct` files can be extracted by running the `.exe` files, or by using 7z to
 Currently the file `Tri-C Dictionary[Cuyahoga Community College].dct` is not converted to JSON format,
 because of a bug in the plugin `plover_digitalcat_dictionary` ([fork](https://github.com/nathyong/plover_digitalcat_dictionary))
 
+More dictionaries used to be available on the website, but they're deleted now.  
+[Internet Archive link](https://web.archive.org/web/20130414055355/http://www.stenovations.com/support/downloads/)).  
+Given that the download page was moved to a new URL, it's likely that the site owner simply forget
+to add them while building the new site.
 
 ### [Phoenix](https://www.chicorymeadow.com/)
 
@@ -61,6 +65,11 @@ So it would be hard to get a feel of a theory.
 Looking at the dictionaries is an option.
 
 Online resources:
+
+* [Phoenix Theory Principles](https://web.archive.org/web/20191222204932/http://www.phoenixtheory.com/phoenix-theory-principles/)
+    and the other blog posts.
+
+    The content is not yet uploaded on the Phoenix theory website since the site redesign,
 
 * [Philadelphia Clinic book](https://groups.google.com/forum/#!searchin/ploversteno/PDF%7Csort:date/ploversteno/DQIIK89eO-4/52u9WUf3AQAJ)
 (also available as `Philadelphia Clinic.pdf` in this repository)
