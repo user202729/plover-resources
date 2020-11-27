@@ -8,8 +8,9 @@ Dictionaries downloaded from [Stenovations](https://www.stenovations.com/support
 
 The `.dct` files can be extracted by running the `.exe` files, or by using 7z to extract them.
 
-Currently the file `Tri-C Dictionary[Cuyahoga Community College].dct` is not converted to JSON format,
-because of a bug in the plugin `plover_digitalcat_dictionary` ([fork](https://github.com/nathyong/plover_digitalcat_dictionary))
+To convert the `.dct` files to `.json` files, use [this Plover fork](https://github.com/user202729/plover/tree/dictionary-save-as)
+to convert the formats, and use [this fork of `plover_digitalcat_dictionary` plugin](https://github.com/user202729/plover_digitalcat_dictionary)
+to read the `.dct` files.
 
 More dictionaries used to be available on the website, but they're deleted now.  
 [Internet Archive link](https://web.archive.org/web/20130414055355/http://www.stenovations.com/support/downloads/)).  
