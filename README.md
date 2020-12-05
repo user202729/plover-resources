@@ -44,6 +44,10 @@ There are also some branches with the dictionaries issues fixed.
 [Ted's Steno Dictionary](https://github.com/morinted/steno_dictionary/blob/master/custom.json)
 -- Plover theory.
 
+Computer-generated theories: (to be added)
+
+Other languages: (to be added)
+
 ### Miscellaneous
 
 [List of Available Steno Dictionaries · openstenoproject/plover Wiki](https://github.com/openstenoproject/plover/wiki/List-of-Available-Steno-Dictionaries)
@@ -61,11 +65,19 @@ Dictionary theory ideas:
 
 ### Theories summary
 
-Most theories only have the dictionary available gratis online, not the theory book.
-So it would be hard to get a feel of a theory.
-Looking at the dictionaries is an option.
+Most theories only have the dictionary available gratis online, not the theory book/principles.
+
+Only some theories have the list of principles posted online and can be looked for.
+
+To quickly get the feel of the theory, it's possible to look at the word list isn't the steno comparison
+chart in the theory comparison PDF file below (for the reasons mentioned in the PDF itself)
 
 Online resources:
+
+* A file that compares several theories (Phoenix, StenEd, CCST, RWG, RW) (and also list some Phoenix/RealWrite principles)
+was originally available [here](https://www.ncra.org/files/MCMS/5E781983-A6C9-4EA3-BCDD-B33ED6998381.pdf)
+([Google Group post](https://groups.google.com/d/msg/ploversteno/9bMkXbUNkww/f-0U_OO7whQJ))
+and is available as `5e781983-a6c9-4ea3-bcdd-b33ed6998381.pdf` in this repository.
 
 * [Phoenix Theory Principles](https://web.archive.org/web/20191222204932/http://www.phoenixtheory.com/phoenix-theory-principles/)
     and the other blog posts.
@@ -77,11 +89,6 @@ Online resources:
 
     According to the same Google Group thread, the dictionary is available on the Stenovations site,
     but mislabeled as "Pennsylvania Clinic" (which is also available in this repository)
-
-* A file that compares several theories (Phoenix, StenEd, CCST, RWG, RW) (and also list some Phoenix/RealWrite theories)
-was originally available [here](https://www.ncra.org/files/MCMS/5E781983-A6C9-4EA3-BCDD-B33ED6998381.pdf)
-([Google Group post](https://groups.google.com/d/msg/ploversteno/9bMkXbUNkww/f-0U_OO7whQJ))
-and is available as `5e781983-a6c9-4ea3-bcdd-b33ed6998381.pdf` in this repository.
 
 * [startran-theory-compare-chart.jpg](https://startran.com/wp-content/uploads/2018/09/startran-theory-compare-chart.jpg) --
 Compares StarTran, Phoenix, StenEd and StenoMaster (Magnum) theory on some random words.
