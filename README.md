@@ -12,6 +12,10 @@ To convert the `.dct` files to `.json` files, use [this Plover fork](https://git
 to convert the formats, and use [this fork of `plover_digitalcat_dictionary` plugin](https://github.com/user202729/plover_digitalcat_dictionary)
 to read the `.dct` files.
 
+The most preferred format for Plover is JSON, however it can handle other formats too (with limitation).
+To use the dictionaries with other programs, the method above can be used to convert them to other formats
+(RTF is supported by default, other formats require installing the corresponding plugin).
+
 Available dictionaries:
 
 * Bryan Theory
