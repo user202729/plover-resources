@@ -12,6 +12,23 @@ To convert the `.dct` files to `.json` files, use [this Plover fork](https://git
 to convert the formats, and use [this fork of `plover_digitalcat_dictionary` plugin](https://github.com/user202729/plover_digitalcat_dictionary)
 to read the `.dct` files.
 
+Available dictionaries:
+
+* Bryan Theory
+* StarTran
+* Steno Foundation
+* The Steno Way
+* Cuyahoga Community College (Tri-C)
+* Pennsylvania Clinic
+* RealWrite
+* Robert Walsh Gonzales
+* San Antonio Main
+* South Coast College
+* StenEd
+* Stenograph
+* Thyra Ellis
+
+
 More dictionaries used to be available on the website, but they're deleted now.  
 [Internet Archive link](https://web.archive.org/web/20130414055355/http://www.stenovations.com/support/downloads/)).  
 Given that the download page was moved to a new URL, it's likely that the site owner simply forget
