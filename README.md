@@ -66,9 +66,21 @@ There are also some branches with the dictionaries issues fixed.
 [Ted's Steno Dictionary](https://github.com/morinted/steno_dictionary/blob/master/custom.json)
 -- Plover theory.
 
-Computer-generated theories: (to be added)
+Computer-generated theories:
 
-Other languages: (to be added)
+* https://github.com/JasonWoof/steno-dictionary-generator
+
+   Generate a steno dictionary from free data and code.
+
+   Uses espeak and Wiktionary dump.
+
+
+* Using CMUDict to programmatically generate translation dictionaries
+
+	Google Group posts: [1](https://groups.google.com/g/ploversteno/c/-sowdKC_bjU/m/KihcLydJBgAJ),
+	[2](https://groups.google.com/g/ploversteno/c/lFf-mymukl0).
+
+Other languages: Refer to Plover's wiki.
 
 ### Miscellaneous
 
