@@ -51,7 +51,7 @@ You have to purchase the Phoenix book to get the dictionary.
 ### [Magnum](https://www.magnumsteno.com/)
 
 The Magnum (StenoMaster/Mark Kislingbury's theory) dictionary used to be available to be downloaded online
-([Google Group post](https://groups.google.com/forum/#!topic/ploversteno/V5tjkNAsW2I)), but it had been taken down by the author.
+([Google Group post](https://groups.google.com/g/ploversteno/c/V5tjkNAsW2I)), but it had been taken down by the author.
 You have to purchase the book.
 
 The other option would be to use [Stanley's Steno Dictionaries](https://github.com/stanographer/steno-dictionaries/),
