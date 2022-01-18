@@ -6,6 +6,9 @@ Some resources for stenography theories, other than Plover.
 
 Dictionaries downloaded from [Stenovations](https://www.stenovations.com/support/download/).
 
+**Note**: Dictionaries are taken verbatim from Stenovations. Some dictionaries might deviate from the main theory.  
+For example the realwrite dictionary in this repository is [known to differ from the book](https://github.com/user202729/plover-resources/issues/2).
+
 The `.dct` files can be extracted by running the `.exe` files, or by using 7z to extract them.
 
 To convert the `.dct` files to `.json` files, use Plover's "Save dictionary as" feature,
